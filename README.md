@@ -1,4 +1,4 @@
-# projet de abdoulaye syll master1 Big Data Sambalaye Diop master1 Big Data
+# projet de abdoulaye syll master1 Big Data et Sambalaye Diop master1 Big Data
 Dans ce Readme, nous allons créer une application écrite en Scala à l'aide d'Apache Maven avec IntelliJ IDEA. on utilise Apache Maven comme système de construction. Et commence par un archétype Maven existant pour Scala fourni par IntelliJ IDEA. La création d'une application Scala dans IntelliJ IDEA implique les étapes suivantes:
 Utilisez Maven comme système de construction.
     Mettez à jour le fichier de modèle d'objet de projet (POM) pour résoudre les dépendances du module Spark.
@@ -40,7 +40,8 @@ Description de la propriété
 Nom du projet Saisissez un nom.
 Emplacement du projet Saisissez l'emplacement pour enregistrer votre projet.
 Projet SDK Ce champ sera vide lors de votre première utilisation d'IDEA. Sélectionnez Nouveau ... et accédez à votre JDK.
-Version Spark L'assistant de création intègre la version appropriée pour Spark SDK et Scala SDK. Si la version du cluster Spark est antérieure à 2.0, sélectionnez Spark 1.x. Sinon, sélectionnez Spark2.x. Cet exemple utilise Spark 2.3.0 (Scala 2.11.8).
+Version Spark L'assistant de création intègre la version appropriée pour Spark SDK et Scala SDK. Si la version du cluster Spark est antérieure à 2.0,
+sélectionnez Spark 1.x. Sinon, sélectionnez Spark2.x. Cet exemple utilise Spark 2.3.0 (Scala 2.11.8).
  
  Créer un projet Scala autonome
 
